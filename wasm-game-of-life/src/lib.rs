@@ -14,6 +14,6 @@ extern {
 }
 
 #[wasm_bindgen]
-pub fn greet(greeter: &str) {
-    alert(&format!("{}", greeter));
+pub fn greet() {
+    alert("Hello, wasm-game-of-life!");
 }
