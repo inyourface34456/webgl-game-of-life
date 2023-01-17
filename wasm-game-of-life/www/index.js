@@ -1,3 +1,3 @@
 import * as wasm from "hello-wasm-pack";
 
-wasm.greet("Your Name");
+wasm.greet("ddddddddddddddddddddddddddddd");
